@@ -1,6 +1,8 @@
 WEB RESOLUSI
 - Konsisten untuk membuat konten 2x seminggu
 - Membuat personal Portfolio
-- Membuat forum diskusi
 - Membuat Landing Page
 - Kolaborasi dengan lebih banyak expert
+- Membuat Photography Site
+- Membuat Parallax Website
+- Membuat Clone Website
