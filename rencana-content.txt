@@ -3,6 +3,8 @@ RENCANA KONTEN
 - Javascript
   *ES6
   *FrameWork JS
+   ^ Angular
+   ^ React
 - Android Studio
 - PHP FrameWorks
-- React JS
+  ^ Laravel
