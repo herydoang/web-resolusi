@@ -4,8 +4,7 @@ RENCANA KONTEN
   *ES6
   *FrameWork JS
    ^ Vue
-   ^ React
-- Android Studio
+   ^ React JS
 - PHP FrameWorks
   ^ Laravel
-- Python
+- Android Studio
