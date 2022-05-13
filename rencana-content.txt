@@ -3,5 +3,6 @@ RENCANA KONTEN
 - Javascript
   *ES6
   *FrameWork JS
+- Android Studio
 - PHP FrameWorks
 - React JS
